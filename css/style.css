@@ -3,7 +3,9 @@ body {
   line-height: 1.7;
   color: gray;
   font-weight: 300;
-  font-size: 1.1rem; }
+  font-size: 1.1rem; 
+  ;
+}
 
 ::-moz-selection {
   background: #000;
@@ -47,6 +49,9 @@ body {
 
 .nonloop-block-14 .owl-stage{
   padding-bottom: 2rem !important;
+}
+.footer-section{
+  padding: 30px 0 !important;
 }
 /***********************************/
 
