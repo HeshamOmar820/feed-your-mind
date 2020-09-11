@@ -44,6 +44,10 @@ body {
   right: auto;
   left: 0;
 }
+
+.nonloop-block-14 .owl-stage{
+  padding-bottom: 2rem !important;
+}
 /***********************************/
 
 a {
